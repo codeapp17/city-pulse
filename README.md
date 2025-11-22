@@ -13,8 +13,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/codeapp17/city-pulse.git)
-   cd events-explorer
+   git clone https://github.com/codeapp17/city-pulse.git
+   cd city-pulse
    ```
 
 2. **Install dependencies**
