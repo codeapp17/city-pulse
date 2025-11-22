@@ -99,5 +99,18 @@ npm install
 
 ### Port Already in Use
 ```bash
+
 npm start -- --port 8081
 ```
+<img width="150" height="300" alt="IMG_8541" src="https://github.com/user-attachments/assets/440df21d-220c-44c8-96d4-399c6b1976df" />
+<img width="150" height="300" alt="IMG_8540" src="https://github.com/user-attachments/assets/300bbaf4-e520-4d2b-bb2e-8645d31b03b3" />
+<img width="150" height="300" alt="IMG_8539" src="https://github.com/user-attachments/assets/2c59bebf-1d58-47aa-b9a1-ad1a9c9b6ef6" />
+<img width="150" height="300" alt="IMG_8538" src="https://github.com/user-attachments/assets/e5277cf5-4ad6-474c-bffa-b3108270c554" />
+<img width="150" height="300" alt="IMG_8537" src="https://github.com/user-attachments/assets/af184310-3567-4594-8691-950b631fd778" />
+<img width="150" height="300" alt="IMG_8536" src="https://github.com/user-attachments/assets/7bad935a-014a-4660-9c6d-5ca7358b9212" />
+<img width="150" height="300" alt="IMG_8535" src="https://github.com/user-attachments/assets/e066480d-c2cb-48dd-afc2-5812c4323d6b" />
+<img width="150" height="300" alt="IMG_8534" src="https://github.com/user-attachments/assets/12f60123-3bca-437c-9352-959a90a0f71b" />
+<img width="150" height="300" alt="IMG_8533" src="https://github.com/user-attachments/assets/a86ef1a6-f903-4513-a783-ddd7376743a8" />
+<img width="150" height="300" alt="IMG_8531" src="https://github.com/user-attachments/assets/db681545-43ef-471f-9390-abbebd2ec667" />
+<img width="150" height="300" alt="IMG_8530" src="https://github.com/user-attachments/assets/2eb81638-f549-4ae8-8e2b-9c0dd20d5e80" />
+<img width="150" height="300" alt="IMG_8529" src="https://github.com/user-attachments/assets/713194d2-b83a-4b77-9bb5-e97858231d87" />
